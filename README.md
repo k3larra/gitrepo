@@ -1,3 +1,3 @@
 # gitrepo
 
-[API_1](https://k3larra.github.io/gitrepoAPI_1)
+[API_1](https://k3larra.github.io/gitrepo/API_1)
