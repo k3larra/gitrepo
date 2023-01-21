@@ -23,8 +23,8 @@ function showJane(data){
   .then((response) => response.json())
   .then((data) => console.log(data)); */
 
-//const url = "https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid=ec0e080aa149103de03727efeeeda642";
-const url = "https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=ec0e080aa149103de03727efeeeda642"
+//const url = "https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid=??";
+const url = "https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=??"
 fetch(url)
 .then((response) => {
     return response.json();
