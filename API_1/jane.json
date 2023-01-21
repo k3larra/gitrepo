@@ -1,0 +1,13 @@
+{
+    "id": "janedoe42",
+    "name": "Jane Doe",
+    "email": "janedoe@exmaple.com",
+    "picture": {
+        "data": {
+            "height": 50,
+            "width": 50,
+            "is_silhouette": false,
+            "url": "img.facebook.com/janedone/profile/123e4567-e89b-12d3-a456-426655440000"
+        }
+    }
+}
